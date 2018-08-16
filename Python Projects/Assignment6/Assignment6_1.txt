@@ -1,0 +1,227 @@
+# -------------------------- Assignment 6 Part 1------------------------------------
+# Assignment 5 by Jonathan Alvarez                  Due: 6/10/2018
+# This is a three part assignment:
+# Part 1: In this assignment, write a function isColliding() that takes two ball
+# tuples as parameters and computes if they are colliding.  Your function will return
+# a Boolean saying whether or not the balls are colliding.
+## -------------------------- Part 1 Code ----------------------------------------
+import math
+print("Today We are going to check whether or not two balls are colliding: ") # Explanation
+
+def isColliding():
+    xDiff = (Ball_2[0] - Ball_1[0]) * (Ball_2[0] - Ball_1[0]) # Calculating the difference between two balls
+    yDiff = (Ball_2[1] - Ball_1[1]) * (Ball_2[1] - Ball_1[1])
+
+    Distance = math.sqrt(xDiff + yDiff) # Calculating the distance
+    RadiiSum = Ball_1[2] + Ball_2[2] # Calculating the sum of two radii
+
+    if Distance <= RadiiSum:
+        print("Ball 1 and Ball 2 are colliding! \n")
+    else:
+        print("Ball 1 and Ball 2 are not colliding! \n")
+
+
+# Test 1
+Ball_1 = (12312, 9432499, 876767)
+Ball_2 = (1, 1, 1)
+print("\n")
+isColliding()
+print("Here are the balls coordinates:")
+print("Ball 1:", Ball_1, "Ball 2: ",Ball_2)
+
+
+# Test 2
+Ball_1 = (1, 1, 1)
+Ball_2 = (1, 1, 1)
+print("\n")
+isColliding()
+print("Here are the balls coordinates:")
+print("Ball 1:", Ball_1, "Ball 2: ",Ball_2)
+
+# ------------------------------------- Part 1 Output ----------------------------------
+# /Users/jonathanalvarez/Documents/Python_Projects/Assignment6/venv/bin/python /Users/jonathanalvarez/Documents/Python_Projects/Assignment6/venv/Assignment6_1.py
+# Today We are going to check whether or not two balls are colliding:
+#
+#
+# Ball 1 and Ball 2 are not colliding!
+#
+# Here are the balls coordinates:
+# Ball 1: (12312, 9432499, 876767) Ball 2:  (1, 1, 1)
+#
+#
+# Ball 1 and Ball 2 are colliding!
+#
+# Here are the balls coordinates:
+# Ball 1: (1, 1, 1) Ball 2:  (1, 1, 1)
+
+# -------------------------- Assignment 6 Part 2------------------------------------
+# Assignment 6 by Jonathan Alvarez                  Due: 6/10/2018
+# This is a four part assignment:
+# Part 2: Find The Error then, write an exception.
+# Explain the issue in your own words.  Suggest how to avoid the error.
+## -------------------------- Part 2 Code ----------------------------------------
+import sys
+# set up a list to iterate on
+myCheeseList = ["Apple", "Asiago", "Brie", "Caerphilly", "Emmental", "Gloucester", "Gouda", ]
+try:
+    for i in range(len(myCheeseList)):
+
+        if i == 2:
+            del (myCheeseList[4])
+
+        print(i, myCheeseList[i])
+except Exception:
+    print("Error occured in line:",i)
+    print ("Error:", sys.exc_info()[1])
+
+
+## -------------------------- Part 2 Output ----------------------------------------
+# /Users/jonathanalvarez/Documents/Python_Projects/Assignment6/venv/bin/python /Users/jonathanalvarez/Documents/Python_Projects/Assignment6/venv/Assignment6_2.py
+# 0 Apple
+# 1 Asiago
+# 2 Brie
+# 3 Caerphilly
+# 4 Gloucester
+# 5 Gouda
+# Error occured in line: 6
+# Error: list index out of range
+
+# -------------------------- Assignment 6 Part 3------------------------------------
+# Assignment 6 by Jonathan Alvarez                  Due: 6/10/2018
+# This is a four part assignment:
+# Part 3:
+# Please paste 2 facts about each of Files, Dictionaries and Tuples into your submitted
+# assignment, to confirm that you have done this reading.
+## -------------------------- Part 3 Code ----------------------------------------------
+# #Chapter 7 : Files
+# Fact 1:
+# One important thing is that if the file does not exist, the open command will fail
+# with a traceback.
+
+# Fact 2:
+# When you are searching through data in a file you're able to select certain parts
+#  that fit your condition
+
+# Chapter 9: Dictionaries
+# Fact 1:
+# Dictionaries are commonly used  to count the occurrence of words within a file with some written
+# text
+
+# Fact 2:
+# When using dictionaries we would treat capitation sensitively “The” and “the” as different words
+#  with different counts.
+
+#  Chapter 10: Tuples
+# Fact 1:
+# Tuples are immutable, comparable, and hashable so we can sort lists.
+
+# Fact 2:
+# Tuples don’t provide methods like sort and reverse, which modify existing lists.
+
+# -------------------------- Assignment 6 Part 4------------------------------------
+# Assignment 6 by Jonathan Alvarez                  Due: 6/10/2018
+# This is a four part assignment:
+# Part 2:
+# Translate using dictionary
+## -------------------------- Part 4 Code ----------------------------------------
+english_list = ["bee", "iguana", "scorpion", "giraffe", "spider"]
+spanish_list = ["abeja","iguana","alacrán","jirafa","araña"]
+greek_list = ["μέλισσα", "ιγκουάνα", "σκορπιός", "καμηλοπάρδαλη", "αράχνη"]
+
+english_to_spanish = dict(zip(english_list, spanish_list))
+spanish_to_english = dict(zip(spanish_list, english_list))
+
+english_to_greek = dict(zip(english_list, greek_list))
+greek_to_english = dict(zip(greek_list, english_list))
+
+greek_to_spanish = dict(zip(greek_list, spanish_list))
+spanish_to_greek = dict(zip(spanish_list, greek_list))
+
+def translate(fm, to, word):
+    try:
+# English to Spanish
+        if (fm == "en") and (to == "sp"):
+            translation = english_to_spanish.get(word)
+            if translation:
+                return word + " (" + fm + ")" + " = " + "(" + to + ") " + translation
+# Spanish to English
+        if (fm == "sp") and (to == "en"):
+            translation = spanish_to_english.get(word)
+            if translation:
+                return word + " (" + fm + ")" + " = " + "(" + to + ") " + translation
+#  English to Greek
+        if (fm == "en") and (to == "gr"):
+            translation = english_to_greek.get(word)
+            if translation:
+                    return word + " (" + fm + ")" + " = " + "(" + to + ") " + translation
+# Greek to English
+        if (fm == "gr") and (to == "en"):
+            translation = greek_to_english.get(word)
+            if translation:
+                return word + " (" + fm + ")" + " = " + "(" + to + ") " + translation
+# Spanish to Greek
+        if (fm == "sp") and (to == "gr"):
+            translation = spanish_to_greek.get(word)
+            if translation:
+                return word + " (" + fm + ")" + " = " + "(" + to + ") " + translation
+# Greek to Spanish
+        if (fm == "gr") and (to == "sp"):
+            translation = greek_to_spanish.get(word)
+            if translation:
+                return word + " (" + fm + ")" + " = " + "(" + to + ") " + translation
+    except KeyError:
+        pass
+
+print("Today we are going to be translating some words!\n")
+
+Test = translate("en", "sp", "bee")
+print(Test)
+
+Test = translate("en", "gr", "bee")
+print(Test)
+
+Test = translate("sp", "en", "araña")
+print(Test)
+
+Test = translate("sp", "gr", "araña")
+print(Test)
+
+Test = translate("gr", "en", "ιγκουάνα")
+print(Test)
+
+Test = translate("gr", "sp", "ιγκουάνα")
+print(Test)
+
+Test = translate("en", "sp", "scorpion")
+print(Test)
+
+Test = translate("en", "gr", "scorpion")
+print(Test)
+
+Test = translate("gr", "sp", "αράχνη")
+print(Test)
+
+Test = translate("en", "gr", "giraffe")
+print(Test)
+
+Test = translate("en", "gr", "cow")
+print(Test)
+
+
+
+
+## --------------------------------- Part 4 Output -------------------------------------
+# /Users/jonathanalvarez/Documents/Python_Projects/Assignment6/venv/bin/python /Users/jonathanalvarez/Documents/Python_Projects/Assignment6/venv/Assignment6_4.py
+# Today we are going to be translating some words!
+#
+# bee (en) = (sp) abeja
+# bee (en) = (gr) μέλισσα
+# araña (sp) = (en) spider
+# araña (sp) = (gr) αράχνη
+# ιγκουάνα (gr) = (en) iguana
+# ιγκουάνα (gr) = (sp) iguana
+# scorpion (en) = (sp) alacrán
+# scorpion (en) = (gr) σκορπιός
+# αράχνη (gr) = (sp) araña
+# giraffe (en) = (gr) καμηλοπάρδαλη
+# None

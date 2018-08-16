@@ -1,0 +1,145 @@
+# Assignment 10                             Due: 6/24/18
+# CS 3A
+# Jonathan Alvarez
+# Part 1:
+# Write a factorial function using iterative
+# -------------------------- Part 1 Source Code ------------------------------------
+print("Today we will be writing a factorial function:")
+
+def factorialI(n):
+    factorial = 1
+    for i in range(n):
+        factorial *= i + 1
+    return factorial
+
+try:
+    n = int(input("Input a number to compute the factiorial : "))
+    print("Factorial of", str(n), ":", "\n", factorialI(n))
+except Exception:
+    print("Try again!")
+    n = int(input("Input a number to compute the factiorial : "))
+    print("Factorial of", str(n), ":", "\n", factorialI(n))
+
+
+
+# ------------------------------- Part 1 Run--------------------------------------------
+# /Users/jonathanalvarez/Documents/Python_Projects/Assignment10/venv/bin/python /Users/jonathanalvarez/Documents/Python_Projects/Assignment10/Assignment10_1.py
+# Today we will be writing a factorial function:
+# Input a number to compute the factiorial : 9
+# Factorial of 9 :
+#  362880
+#
+# Today we will be writing a factorial function:
+# Input a number to compute the factiorial : 180
+# Factorial of 180 :
+#  200896062499134299656951336898466838917540340798867777940435335160044860953395980941180138112097309735631594101037399609671032132186331495273609598531966730972945653558819806475064353856858157445040809209560358463319644664891114256430017824141796753818192338642302693327818731986039603200000000000000000000000000000000000000000000
+
+# --------------------------- End of Part 1 --------------------------------------------
+# Assignment 10                             Due: 6/24/18
+# CS 3A
+# Jonathan Alvarez
+# Part 2:
+# Write a factorial function using recursion
+# -------------------------- Part 2 Source Code ------------------------------------
+
+
+def factorialR(n):
+    if n == 1:
+        return 1
+    else:
+        result = n * factorialR(n - 1)
+        return result
+
+
+try:
+    n = int(input("Input a number to compute the factiorial : "))
+    print("Factorial of", str(n), ":", "\n", factorialR(n))
+except Exception:
+    print("Try again!")
+    n = int(input("Input a number to compute the factiorial : "))
+    print("Factorial of", str(n), ":", "\n", factorialR(n))
+
+# -------------------------- Part 2 Run -------------------------------------------
+# /Users/jonathanalvarez/Documents/Python_Projects/Assignment10/venv/bin/python /Users/jonathanalvarez/Documents/Python_Projects/Assignment10/Assignment10_2.py
+# Input a number to compute the factiorial : 9
+# Factorial of 9 :
+#  362880
+#
+# /Users/jonathanalvarez/Documents/Python_Projects/Assignment10/venv/bin/python /Users/jonathanalvarez/Documents/Python_Projects/Assignment10/Assignment10_2.py
+# Input a number to compute the factiorial : 180
+# Factorial of 180 :
+#  200896062499134299656951336898466838917540340798867777940435335160044860953395980941180138112097309735631594101037399609671032132186331495273609598531966730972945653558819806475064353856858157445040809209560358463319644664891114256430017824141796753818192338642302693327818731986039603200000000000000000000000000000000000000000000
+
+# -------------------------- End of Part 2 ------------------------------------------
+
+# Assignment 10                             Due: 6/24/18
+# CS 3A
+# Jonathan Alvarez
+# Part 3:
+# Compare the two previous runs to see which one is faster.
+# -------------------------- Part 3 Source Code ------------------------------------
+
+from timeit import default_timer as timer
+
+# Part 1
+
+def factorialI(n):  # Iterative
+    factorial = 1
+    for i in range(n):
+        factorial *= i + 1
+    return factorial
+
+# Part 2
+
+def factorialR(n): # Recursive
+    if n == 1:
+        return 1
+    else:
+        result = n * factorialR(n - 1)
+        return result
+
+
+def func_to_measureI():
+    result = factorialI(180)
+
+print("starting timer")
+start = timer()
+for i in range(100000):
+    func_to_measureI()
+end = timer()
+
+elapsed = end - start
+print("elapsed time:", elapsed, "secs")
+
+
+def func_to_measureR():
+    result = factorialR(180)
+
+
+print("starting timer")
+start = timer()
+for i in range(100000):
+    func_to_measureR()
+end = timer()
+
+elapsed = end - start
+print("elapsed time:", elapsed, "secs")
+
+# ------------------------------- Part 3 Run ------------------------------------------
+# /Users/jonathanalvarez/Documents/Python_Projects/Assignment10/venv/bin/python /Users/jonathanalvarez/Documents/Python_Projects/Assignment10/Assignment10_3.py
+# starting timer
+# elapsed time: 2.683614251000108 secs
+# starting timer
+# elapsed time: 4.752065540989861 secs
+
+# There are various reasons that iterative is a lot faster then recursive.
+# One of the major reason is because iteration is doing same thing many times.
+# This makes the elapsed time a lot slower.
+# Then with recursion it is breaking down the big problem into smaller problem or problems,
+# then recursion solves it in the same manner provided we know the solution for the smallest possible input.
+
+# ----------------------------- End of Part 3 -------------------------------------------
+
+# Ps. Thank you so much Professor Van Der Linden,
+# This has been an amazing Quarter and you did an amazing job teaching this course.
+# I hope you have an great summer. I can't wait to transfer!
