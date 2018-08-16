@@ -1,0 +1,358 @@
+
+Plot 1:
+
+Maximum ns/M: 2.8251; iterOfMax: 150; arraySize: 1
+maxArrayP.length 100
+Maximum ns/M: 6.1026; iterOfMax: 70; arraySize: 2
+maxArrayP.length 100
+Maximum ns/M: 8.5405; iterOfMax: 74; arraySize: 3
+maxArrayP.length 100
+Maximum ns/M: 14.3012; iterOfMax: 206; arraySize: 4
+maxArrayP.length 100
+Maximum ns/M: 7.0595; iterOfMax: 18; arraySize: 5
+maxArrayP.length 100
+Maximum ns/M: 6.9323; iterOfMax: 56; arraySize: 6
+maxArrayP.length 100
+Maximum ns/M: 7.9582; iterOfMax: 64; arraySize: 7
+maxArrayP.length 100
+Maximum ns/M: 8.4960; iterOfMax: 12; arraySize: 8
+maxArrayP.length 100
+Maximum ns/M: 4.7741; iterOfMax: 246; arraySize: 9
+maxArrayP.length 100
+Maximum ns/M: 14.3124; iterOfMax: 78; arraySize: 10
+maxArrayP.length 100
+Maximum ns/M: .7635; iterOfMax: 2; arraySize: 11
+maxArrayP.length 100
+Maximum ns/M: .5964; iterOfMax: 2; arraySize: 12
+maxArrayP.length 100
+Maximum ns/M: 3.5938; iterOfMax: 80; arraySize: 13
+maxArrayP.length 100
+Maximum ns/M: .8082; iterOfMax: 224; arraySize: 14
+maxArrayP.length 100
+Maximum ns/M: .8543; iterOfMax: 2; arraySize: 15
+maxArrayP.length 100
+Maximum ns/M: 1.2904; iterOfMax: 162; arraySize: 16
+maxArrayP.length 100
+Maximum ns/M: 2.9675; iterOfMax: 88; arraySize: 17
+maxArrayP.length 100
+Maximum ns/M: 1.2305; iterOfMax: 2; arraySize: 18
+maxArrayP.length 100
+Maximum ns/M: .9890; iterOfMax: 2; arraySize: 19
+maxArrayP.length 100
+Maximum ns/M: 1.0465; iterOfMax: 2; arraySize: 20
+maxArrayP.length 100
+Maximum ns/M: 1.0979; iterOfMax: 2; arraySize: 21
+maxArrayP.length 100
+Maximum ns/M: 1.3240; iterOfMax: 2; arraySize: 22
+maxArrayP.length 100
+Maximum ns/M: 1.2124; iterOfMax: 2; arraySize: 23
+maxArrayP.length 100
+Maximum ns/M: 1.6073; iterOfMax: 2; arraySize: 24
+maxArrayP.length 100
+Maximum ns/M: 1.3499; iterOfMax: 2; arraySize: 25
+maxArrayP.length 100
+Maximum ns/M: 1.4009; iterOfMax: 188; arraySize: 26
+maxArrayP.length 100
+Maximum ns/M: 1.6135; iterOfMax: 2; arraySize: 27
+maxArrayP.length 100
+Maximum ns/M: 1.4187; iterOfMax: 2; arraySize: 28
+maxArrayP.length 100
+Maximum ns/M: 1.6281; iterOfMax: 2; arraySize: 29
+maxArrayP.length 100
+Maximum ns/M: 1.6526; iterOfMax: 52; arraySize: 30
+maxArrayP.length 100
+Maximum ns/M: 2.7060; iterOfMax: 2; arraySize: 31
+maxArrayP.length 100
+Maximum ns/M: 1.6667; iterOfMax: 2; arraySize: 32
+maxArrayP.length 100
+Maximum ns/M: 1.8471; iterOfMax: 2; arraySize: 33
+maxArrayP.length 100
+Maximum ns/M: 1.9950; iterOfMax: 2; arraySize: 34
+maxArrayP.length 100
+Maximum ns/M: 1.8378; iterOfMax: 2; arraySize: 35
+maxArrayP.length 100
+Maximum ns/M: 3.0004; iterOfMax: 178; arraySize: 36
+maxArrayP.length 100
+Maximum ns/M: 2.0675; iterOfMax: 2; arraySize: 37
+maxArrayP.length 100
+Maximum ns/M: 2.0616; iterOfMax: 2; arraySize: 38
+maxArrayP.length 100
+Maximum ns/M: 2.6191; iterOfMax: 2; arraySize: 39
+maxArrayP.length 100
+Maximum ns/M: 2.2341; iterOfMax: 2; arraySize: 40
+maxArrayP.length 100
+Maximum ns/M: 2.3492; iterOfMax: 2; arraySize: 41
+maxArrayP.length 100
+Maximum ns/M: 2.3990; iterOfMax: 2; arraySize: 42
+maxArrayP.length 100
+Maximum ns/M: 2.2986; iterOfMax: 2; arraySize: 43
+maxArrayP.length 100
+Maximum ns/M: 2.7109; iterOfMax: 6; arraySize: 44
+maxArrayP.length 100
+Maximum ns/M: 2.6297; iterOfMax: 2; arraySize: 45
+maxArrayP.length 100
+Maximum ns/M: 2.6012; iterOfMax: 2; arraySize: 46
+maxArrayP.length 100
+Maximum ns/M: 2.7264; iterOfMax: 2; arraySize: 47
+maxArrayP.length 100
+Maximum ns/M: 2.8681; iterOfMax: 2; arraySize: 48
+maxArrayP.length 100
+Maximum ns/M: 3.0430; iterOfMax: 2; arraySize: 49
+maxArrayP.length 100
+Maximum ns/M: 2.9090; iterOfMax: 2; arraySize: 50
+maxArrayP.length 100
+Maximum ns/M: 3.6499; iterOfMax: 2; arraySize: 51
+maxArrayP.length 100
+Maximum ns/M: 3.3540; iterOfMax: 2; arraySize: 52
+maxArrayP.length 100
+Maximum ns/M: 3.0070; iterOfMax: 2; arraySize: 53
+maxArrayP.length 100
+Maximum ns/M: 3.1551; iterOfMax: 2; arraySize: 54
+maxArrayP.length 100
+Maximum ns/M: 3.2462; iterOfMax: 2; arraySize: 55
+maxArrayP.length 100
+Maximum ns/M: 3.0790; iterOfMax: 2; arraySize: 56
+maxArrayP.length 100
+Maximum ns/M: 3.2011; iterOfMax: 2; arraySize: 57
+maxArrayP.length 100
+Maximum ns/M: 3.4133; iterOfMax: 2; arraySize: 58
+maxArrayP.length 100
+Maximum ns/M: 3.4810; iterOfMax: 2; arraySize: 59
+maxArrayP.length 100
+Maximum ns/M: 3.5530; iterOfMax: 2; arraySize: 60
+maxArrayP.length 100
+Maximum ns/M: 3.5436; iterOfMax: 2; arraySize: 61
+maxArrayP.length 100
+Maximum ns/M: 4.4307; iterOfMax: 2; arraySize: 62
+maxArrayP.length 100
+Maximum ns/M: 3.6532; iterOfMax: 2; arraySize: 63
+maxArrayP.length 100
+Maximum ns/M: 3.9449; iterOfMax: 76; arraySize: 64
+maxArrayP.length 100
+Maximum ns/M: 3.8488; iterOfMax: 2; arraySize: 65
+maxArrayP.length 100
+Maximum ns/M: 3.9466; iterOfMax: 2; arraySize: 66
+maxArrayP.length 100
+Maximum ns/M: 3.9616; iterOfMax: 2; arraySize: 67
+maxArrayP.length 100
+Maximum ns/M: 4.0450; iterOfMax: 2; arraySize: 68
+maxArrayP.length 100
+Maximum ns/M: 4.1045; iterOfMax: 2; arraySize: 69
+maxArrayP.length 100
+Maximum ns/M: 4.2245; iterOfMax: 2; arraySize: 70
+maxArrayP.length 100
+Maximum ns/M: 4.3573; iterOfMax: 2; arraySize: 71
+maxArrayP.length 100
+Maximum ns/M: 5.5312; iterOfMax: 16; arraySize: 72
+maxArrayP.length 100
+Maximum ns/M: 4.2563; iterOfMax: 2; arraySize: 73
+maxArrayP.length 100
+Maximum ns/M: 4.4828; iterOfMax: 72; arraySize: 74
+maxArrayP.length 100
+Maximum ns/M: 4.4548; iterOfMax: 2; arraySize: 75
+maxArrayP.length 100
+Maximum ns/M: 6.4226; iterOfMax: 2; arraySize: 76
+maxArrayP.length 100
+Maximum ns/M: 6.5814; iterOfMax: 42; arraySize: 77
+maxArrayP.length 100
+Maximum ns/M: 6.7203; iterOfMax: 266; arraySize: 78
+maxArrayP.length 100
+Maximum ns/M: 4.7541; iterOfMax: 2; arraySize: 79
+maxArrayP.length 100
+Maximum ns/M: 4.8973; iterOfMax: 2; arraySize: 80
+maxArrayP.length 100
+Maximum ns/M: 5.0001; iterOfMax: 2; arraySize: 81
+maxArrayP.length 100
+Maximum ns/M: 5.0037; iterOfMax: 2; arraySize: 82
+maxArrayP.length 100
+Maximum ns/M: 5.1319; iterOfMax: 2; arraySize: 83
+maxArrayP.length 100
+Maximum ns/M: 5.1092; iterOfMax: 2; arraySize: 84
+maxArrayP.length 100
+Maximum ns/M: 6.8082; iterOfMax: 164; arraySize: 85
+maxArrayP.length 100
+Maximum ns/M: 6.1490; iterOfMax: 88; arraySize: 86
+maxArrayP.length 100
+Maximum ns/M: 5.2856; iterOfMax: 2; arraySize: 87
+maxArrayP.length 100
+Maximum ns/M: 5.7788; iterOfMax: 78; arraySize: 88
+maxArrayP.length 100
+Maximum ns/M: 5.5557; iterOfMax: 2; arraySize: 89
+maxArrayP.length 100
+Maximum ns/M: 5.8346; iterOfMax: 2; arraySize: 90
+maxArrayP.length 100
+Maximum ns/M: 16.6592; iterOfMax: 110; arraySize: 91
+maxArrayP.length 100
+Maximum ns/M: 6.3490; iterOfMax: 2; arraySize: 92
+maxArrayP.length 100
+Maximum ns/M: 5.8311; iterOfMax: 2; arraySize: 93
+maxArrayP.length 100
+Maximum ns/M: 6.0473; iterOfMax: 2; arraySize: 94
+maxArrayP.length 100
+Maximum ns/M: 5.7950; iterOfMax: 2; arraySize: 95
+maxArrayP.length 100
+Maximum ns/M: 6.4560; iterOfMax: 2; arraySize: 96
+maxArrayP.length 100
+Maximum ns/M: 6.4398; iterOfMax: 2; arraySize: 97
+maxArrayP.length 100
+Maximum ns/M: 7.4959; iterOfMax: 202; arraySize: 98
+maxArrayP.length 100
+Maximum ns/M: 8.1869; iterOfMax: 206; arraySize: 99
+maxArrayP.length 100
+Maximum ns/M: 6.3442; iterOfMax: 180; arraySize: 100
+maxArrayP.length 100
+
+
+Plot 2:
+For the RecursionLimit 2 0 hrs : 0 mins : 4 sec : 120 ms : 972710 ns :
+For the RecursionLimit 4 0 hrs : 0 mins : 4 sec : 6 ms : 868200 ns :
+For the RecursionLimit 6 0 hrs : 0 mins : 3 sec : 965 ms : 851869 ns :
+For the RecursionLimit 8 0 hrs : 0 mins : 3 sec : 968 ms : 902465 ns :
+For the RecursionLimit 10 0 hrs : 0 mins : 3 sec : 848 ms : 957246 ns :
+For the RecursionLimit 12 0 hrs : 0 mins : 3 sec : 839 ms : 765400 ns :
+For the RecursionLimit 14 0 hrs : 0 mins : 3 sec : 909 ms : 502427 ns :
+For the RecursionLimit 16 0 hrs : 0 mins : 4 sec : 19 ms : 642762 ns :
+For the RecursionLimit 18 0 hrs : 0 mins : 3 sec : 952 ms : 237719 ns :
+For the RecursionLimit 20 0 hrs : 0 mins : 3 sec : 833 ms : 935279 ns :
+For the RecursionLimit 22 0 hrs : 0 mins : 3 sec : 855 ms : 613408 ns :
+For the RecursionLimit 24 0 hrs : 0 mins : 3 sec : 894 ms : 857412 ns :
+For the RecursionLimit 26 0 hrs : 0 mins : 3 sec : 900 ms : 936527 ns :
+For the RecursionLimit 28 0 hrs : 0 mins : 3 sec : 860 ms : 269930 ns :
+For the RecursionLimit 30 0 hrs : 0 mins : 3 sec : 927 ms : 879964 ns :
+For the RecursionLimit 32 0 hrs : 0 mins : 3 sec : 852 ms : 959841 ns :
+For the RecursionLimit 34 0 hrs : 0 mins : 3 sec : 873 ms : 688528 ns :
+For the RecursionLimit 36 0 hrs : 0 mins : 3 sec : 756 ms : 552355 ns :
+For the RecursionLimit 38 0 hrs : 0 mins : 3 sec : 849 ms : 103215 ns :
+For the RecursionLimit 40 0 hrs : 0 mins : 3 sec : 938 ms : 427913 ns :
+For the RecursionLimit 42 0 hrs : 0 mins : 3 sec : 849 ms : 126053 ns :
+For the RecursionLimit 44 0 hrs : 0 mins : 3 sec : 759 ms : 338405 ns :
+For the RecursionLimit 46 0 hrs : 0 mins : 3 sec : 977 ms : 780454 ns :
+For the RecursionLimit 48 0 hrs : 0 mins : 3 sec : 896 ms : 830640 ns :
+For the RecursionLimit 50 0 hrs : 0 mins : 3 sec : 836 ms : 88523 ns :
+For the RecursionLimit 52 0 hrs : 0 mins : 3 sec : 727 ms : 355517 ns :
+For the RecursionLimit 54 0 hrs : 0 mins : 3 sec : 843 ms : 968230 ns :
+For the RecursionLimit 56 0 hrs : 0 mins : 3 sec : 832 ms : 905455 ns :
+For the RecursionLimit 58 0 hrs : 0 mins : 3 sec : 814 ms : 415659 ns :
+For the RecursionLimit 60 0 hrs : 0 mins : 3 sec : 669 ms : 825012 ns :
+For the RecursionLimit 62 0 hrs : 0 mins : 3 sec : 700 ms : 830801 ns :
+For the RecursionLimit 64 0 hrs : 0 mins : 3 sec : 803 ms : 496826 ns :
+For the RecursionLimit 66 0 hrs : 0 mins : 3 sec : 836 ms : 196002 ns :
+For the RecursionLimit 68 0 hrs : 0 mins : 3 sec : 684 ms : 151811 ns :
+For the RecursionLimit 70 0 hrs : 0 mins : 3 sec : 690 ms : 520524 ns :
+For the RecursionLimit 72 0 hrs : 0 mins : 3 sec : 790 ms : 578498 ns :
+For the RecursionLimit 74 0 hrs : 0 mins : 3 sec : 777 ms : 424029 ns :
+For the RecursionLimit 76 0 hrs : 0 mins : 3 sec : 661 ms : 363470 ns :
+For the RecursionLimit 78 0 hrs : 0 mins : 3 sec : 708 ms : 923056 ns :
+For the RecursionLimit 80 0 hrs : 0 mins : 3 sec : 806 ms : 948521 ns :
+For the RecursionLimit 82 0 hrs : 0 mins : 3 sec : 838 ms : 187705 ns :
+For the RecursionLimit 84 0 hrs : 0 mins : 3 sec : 792 ms : 36538 ns :
+For the RecursionLimit 86 0 hrs : 0 mins : 3 sec : 664 ms : 949225 ns :
+For the RecursionLimit 88 0 hrs : 0 mins : 3 sec : 820 ms : 647662 ns :
+For the RecursionLimit 90 0 hrs : 0 mins : 3 sec : 771 ms : 224165 ns :
+For the RecursionLimit 92 0 hrs : 0 mins : 3 sec : 770 ms : 483915 ns :
+For the RecursionLimit 94 0 hrs : 0 mins : 3 sec : 614 ms : 49267 ns :
+For the RecursionLimit 96 0 hrs : 0 mins : 3 sec : 733 ms : 55372 ns :
+For the RecursionLimit 98 0 hrs : 0 mins : 3 sec : 814 ms : 80033 ns :
+For the RecursionLimit 100 0 hrs : 0 mins : 3 sec : 778 ms : 249418 ns :
+For the RecursionLimit 102 0 hrs : 0 mins : 3 sec : 693 ms : 472183 ns :
+For the RecursionLimit 104 0 hrs : 0 mins : 3 sec : 728 ms : 877391 ns :
+For the RecursionLimit 106 0 hrs : 0 mins : 3 sec : 826 ms : 206855 ns :
+For the RecursionLimit 108 0 hrs : 0 mins : 3 sec : 767 ms : 811946 ns :
+For the RecursionLimit 110 0 hrs : 0 mins : 3 sec : 736 ms : 45106 ns :
+For the RecursionLimit 112 0 hrs : 0 mins : 4 sec : 286 ms : 17658 ns :
+For the RecursionLimit 114 0 hrs : 0 mins : 3 sec : 743 ms : 804259 ns :
+For the RecursionLimit 116 0 hrs : 0 mins : 3 sec : 761 ms : 722874 ns :
+For the RecursionLimit 118 0 hrs : 0 mins : 3 sec : 609 ms : 128021 ns :
+For the RecursionLimit 120 0 hrs : 0 mins : 3 sec : 641 ms : 569681 ns :
+For the RecursionLimit 122 0 hrs : 0 mins : 3 sec : 763 ms : 138699 ns :
+For the RecursionLimit 124 0 hrs : 0 mins : 3 sec : 749 ms : 991495 ns :
+For the RecursionLimit 126 0 hrs : 0 mins : 3 sec : 728 ms : 551080 ns :
+For the RecursionLimit 128 0 hrs : 0 mins : 3 sec : 630 ms : 281454 ns :
+For the RecursionLimit 130 0 hrs : 0 mins : 3 sec : 748 ms : 876398 ns :
+For the RecursionLimit 132 0 hrs : 0 mins : 3 sec : 693 ms : 349623 ns :
+For the RecursionLimit 134 0 hrs : 0 mins : 3 sec : 760 ms : 821924 ns :
+For the RecursionLimit 136 0 hrs : 0 mins : 3 sec : 643 ms : 189077 ns :
+For the RecursionLimit 138 0 hrs : 0 mins : 3 sec : 701 ms : 602947 ns :
+For the RecursionLimit 140 0 hrs : 0 mins : 3 sec : 714 ms : 292707 ns :
+For the RecursionLimit 142 0 hrs : 0 mins : 3 sec : 685 ms : 788757 ns :
+For the RecursionLimit 144 0 hrs : 0 mins : 3 sec : 779 ms : 276724 ns :
+For the RecursionLimit 146 0 hrs : 0 mins : 4 sec : 262 ms : 893995 ns :
+For the RecursionLimit 148 0 hrs : 0 mins : 5 sec : 373 ms : 641502 ns :
+For the RecursionLimit 150 0 hrs : 0 mins : 3 sec : 465 ms : 178152 ns :
+For the RecursionLimit 152 0 hrs : 0 mins : 3 sec : 491 ms : 209055 ns :
+For the RecursionLimit 154 0 hrs : 0 mins : 12 sec : 224 ms : 460816 ns :
+For the RecursionLimit 156 0 hrs : 0 mins : 3 sec : 528 ms : 88948 ns :
+For the RecursionLimit 158 0 hrs : 0 mins : 3 sec : 772 ms : 759524 ns :
+For the RecursionLimit 160 0 hrs : 0 mins : 3 sec : 593 ms : 449605 ns :
+For the RecursionLimit 162 0 hrs : 0 mins : 5 sec : 98 ms : 93052 ns :
+For the RecursionLimit 164 0 hrs : 0 mins : 3 sec : 583 ms : 260306 ns :
+For the RecursionLimit 166 0 hrs : 0 mins : 3 sec : 577 ms : 418500 ns :
+For the RecursionLimit 168 0 hrs : 0 mins : 8 sec : 928 ms : 827582 ns :
+For the RecursionLimit 170 0 hrs : 0 mins : 6 sec : 966 ms : 66653 ns :
+For the RecursionLimit 172 0 hrs : 0 mins : 3 sec : 479 ms : 134598 ns :
+For the RecursionLimit 174 0 hrs : 0 mins : 3 sec : 555 ms : 943893 ns :
+For the RecursionLimit 176 0 hrs : 0 mins : 3 sec : 610 ms : 821409 ns :
+For the RecursionLimit 178 0 hrs : 0 mins : 5 sec : 116 ms : 318413 ns :
+For the RecursionLimit 180 0 hrs : 0 mins : 6 sec : 288 ms : 738953 ns :
+For the RecursionLimit 182 0 hrs : 0 mins : 4 sec : 336 ms : 446154 ns :
+For the RecursionLimit 184 0 hrs : 0 mins : 3 sec : 800 ms : 476371 ns :
+For the RecursionLimit 186 0 hrs : 0 mins : 4 sec : 112 ms : 599630 ns :
+For the RecursionLimit 188 0 hrs : 0 mins : 3 sec : 728 ms : 438299 ns :
+For the RecursionLimit 190 0 hrs : 0 mins : 3 sec : 652 ms : 607190 ns :
+For the RecursionLimit 192 0 hrs : 0 mins : 3 sec : 695 ms : 293890 ns :
+For the RecursionLimit 194 0 hrs : 0 mins : 3 sec : 693 ms : 615769 ns :
+For the RecursionLimit 196 0 hrs : 0 mins : 3 sec : 766 ms : 186536 ns :
+For the RecursionLimit 198 0 hrs : 0 mins : 3 sec : 784 ms : 870778 ns :
+For the RecursionLimit 200 0 hrs : 0 mins : 3 sec : 741 ms : 524472 ns :
+For the RecursionLimit 202 0 hrs : 0 mins : 3 sec : 707 ms : 206 ns :
+For the RecursionLimit 204 0 hrs : 0 mins : 3 sec : 808 ms : 250235 ns :
+For the RecursionLimit 206 0 hrs : 0 mins : 3 sec : 797 ms : 287438 ns :
+For the RecursionLimit 208 0 hrs : 0 mins : 3 sec : 736 ms : 661515 ns :
+For the RecursionLimit 210 0 hrs : 0 mins : 3 sec : 733 ms : 668064 ns :
+For the RecursionLimit 212 0 hrs : 0 mins : 3 sec : 695 ms : 639857 ns :
+For the RecursionLimit 214 0 hrs : 0 mins : 3 sec : 764 ms : 84835 ns :
+For the RecursionLimit 216 0 hrs : 0 mins : 4 sec : 279 ms : 24027 ns :
+For the RecursionLimit 218 0 hrs : 0 mins : 3 sec : 916 ms : 177149 ns :
+For the RecursionLimit 220 0 hrs : 0 mins : 4 sec : 28 ms : 305852 ns :
+For the RecursionLimit 222 0 hrs : 0 mins : 4 sec : 594 ms : 668149 ns :
+For the RecursionLimit 224 0 hrs : 0 mins : 4 sec : 118 ms : 415919 ns :
+For the RecursionLimit 226 0 hrs : 0 mins : 4 sec : 182 ms : 287250 ns :
+For the RecursionLimit 228 0 hrs : 0 mins : 5 sec : 344 ms : 12618 ns :
+For the RecursionLimit 230 0 hrs : 0 mins : 3 sec : 944 ms : 707601 ns :
+For the RecursionLimit 232 0 hrs : 0 mins : 4 sec : 541 ms : 619876 ns :
+For the RecursionLimit 234 0 hrs : 0 mins : 3 sec : 788 ms : 391616 ns :
+For the RecursionLimit 236 0 hrs : 0 mins : 3 sec : 792 ms : 175065 ns :
+For the RecursionLimit 238 0 hrs : 0 mins : 3 sec : 997 ms : 19363 ns :
+For the RecursionLimit 240 0 hrs : 0 mins : 3 sec : 775 ms : 194683 ns :
+For the RecursionLimit 242 0 hrs : 0 mins : 3 sec : 801 ms : 557520 ns :
+For the RecursionLimit 244 0 hrs : 0 mins : 3 sec : 687 ms : 910183 ns :
+For the RecursionLimit 246 0 hrs : 0 mins : 3 sec : 719 ms : 713525 ns :
+For the RecursionLimit 248 0 hrs : 0 mins : 3 sec : 681 ms : 768493 ns :
+For the RecursionLimit 250 0 hrs : 0 mins : 3 sec : 680 ms : 236898 ns :
+For the RecursionLimit 252 0 hrs : 0 mins : 3 sec : 659 ms : 427570 ns :
+For the RecursionLimit 254 0 hrs : 0 mins : 3 sec : 957 ms : 920235 ns :
+For the RecursionLimit 256 0 hrs : 0 mins : 3 sec : 959 ms : 465723 ns :
+For the RecursionLimit 258 0 hrs : 0 mins : 7 sec : 582 ms : 80562 ns :
+For the RecursionLimit 260 0 hrs : 0 mins : 4 sec : 513 ms : 151838 ns :
+For the RecursionLimit 262 0 hrs : 0 mins : 3 sec : 457 ms : 475166 ns :
+For the RecursionLimit 264 0 hrs : 0 mins : 3 sec : 766 ms : 723070 ns :
+For the RecursionLimit 266 0 hrs : 0 mins : 4 sec : 41 ms : 354716 ns :
+For the RecursionLimit 268 0 hrs : 0 mins : 3 sec : 978 ms : 125600 ns :
+For the RecursionLimit 270 0 hrs : 0 mins : 3 sec : 805 ms : 381140 ns :
+For the RecursionLimit 272 0 hrs : 0 mins : 4 sec : 142 ms : 816225 ns :
+For the RecursionLimit 274 0 hrs : 0 mins : 4 sec : 275 ms : 292811 ns :
+For the RecursionLimit 276 0 hrs : 0 mins : 4 sec : 303 ms : 162046 ns :
+For the RecursionLimit 278 0 hrs : 0 mins : 4 sec : 71 ms : 260130 ns :
+For the RecursionLimit 280 0 hrs : 0 mins : 3 sec : 918 ms : 897507 ns :
+For the RecursionLimit 282 0 hrs : 0 mins : 3 sec : 828 ms : 338234 ns :
+For the RecursionLimit 284 0 hrs : 0 mins : 4 sec : 124 ms : 604257 ns :
+For the RecursionLimit 286 0 hrs : 0 mins : 4 sec : 135 ms : 887969 ns :
+For the RecursionLimit 288 0 hrs : 0 mins : 3 sec : 982 ms : 867502 ns :
+For the RecursionLimit 290 0 hrs : 0 mins : 3 sec : 866 ms : 67741 ns :
+For the RecursionLimit 292 0 hrs : 0 mins : 3 sec : 866 ms : 220043 ns :
+For the RecursionLimit 294 0 hrs : 0 mins : 3 sec : 905 ms : 919871 ns :
+For the RecursionLimit 296 0 hrs : 0 mins : 3 sec : 815 ms : 383499 ns :
+For the RecursionLimit 298 0 hrs : 0 mins : 3 sec : 679 ms : 230356 ns :
+For the RecursionLimit 300 0 hrs : 0 mins : 3 sec : 661 ms : 972085 ns :
+max = 1222446.0 at Recursion Limit: 154.0
+min = 345748.0 at Recursion Limit: 262.0
